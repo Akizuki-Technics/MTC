@@ -105,7 +105,7 @@ D --> E["Encrypted Main Program\nDecryption & Execution"]
 
 ## 📄 License
 
-暂时使用 MIT 2.0
+暂时使用 MIT
 
 ---
 
