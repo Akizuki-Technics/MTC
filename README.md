@@ -104,7 +104,8 @@ D --> E["Encrypted Main Program\nDecryption & Execution"]
 ---
 
 ## 📄 License
-MIT 或选择你需要的高安全协议（如 Custom Enterprise License）。
+
+暂时使用 MIT 2.0
 
 ---
 
